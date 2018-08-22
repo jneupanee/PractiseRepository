@@ -17,6 +17,7 @@ public class TestRadioButtonClick {
 		
 		driver.navigate().to("http://artoftesting.com/sampleSiteForSelenium.html");
 		
+		
 	}
 	
 	@Test
